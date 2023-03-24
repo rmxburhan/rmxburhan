@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-📽️ Anime 好き
-🎧 Music 好き
-🧠 Brain 好き
+- 📽️ Anime 好き ...
+- 🎧 Music 好き ...
+- 🧠 Brain 好き ...
 <!--
 **rmxburhan/rmxburhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
