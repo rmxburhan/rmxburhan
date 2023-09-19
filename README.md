@@ -1,16 +1,16 @@
-### Hi there 👋
+My name is Rizal Burhanuddin
 
-<!--
-**rmxburhan/rmxburhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In my free time I usually work on some small projects and learn some skills.
 
-Here are some ideas to get you started:
+| Technology interest |
+| -- |
+| Kotlin (Android Native App)|
+| ASP.NET Core |
+| Winforms |
+| React.js / React native |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1.5 years ago I started learning programming and the first application I created was a Desktop Application basically it is an Information System for the Banking industry just a simple application that had CRUD and Reports and now the project is in progress to be rebuilt. I hope the result will be a good application.
+
+My hobbies :
+- Play games.
+- Watching anime.
