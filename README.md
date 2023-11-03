@@ -25,9 +25,9 @@ Here are some of the technologies that I'm currently excited about:
 
 I've earned recognition for my skills in the competitive arena. Here are some highlights:
 
-🥉 Achieved 3rd place in the National Skills Competition (LKS) - IT Software Solution For Business.
-🥇 Secured the 1st place position in the Skills Competition for West Java - IT Software Solution For Business.
-🥈 Clinched a well-deserved 2nd place in another intense Skills Competition in West Java - IT Software Solution For Business.
+- 🥉 Achieved 3rd place in the National Skills Competition (LKS) - IT Software Solution For Business.
+- 🥇 Secured the 1st place position in the Skills Competition for West Java - IT Software Solution For Business.
+- 🥈 Clinched a well-deserved 2nd place in another intense Skills Competition in West Java - IT Software Solution For Business.
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmxburhan&langs_count=10"  width="300px">
