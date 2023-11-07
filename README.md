@@ -17,7 +17,7 @@ Here are some of the technologies that I'm currently excited about:
 - 📱 Kotlin (Android Native App)
 - 🌐 ASP.NET Core
 - 💻 Winforms
-- ⚛️ React.js / React Native
+- ⚛️ Svelte.js
 
 ## My Journey
 
