@@ -32,8 +32,8 @@ I've earned recognition for my skills in the competitive arena. Here are some hi
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmxburhan&langs_count=10"  width="300px">
 
-## Visitor Count
+[//]: <> (## Visitor Count)
 
-![Visitor Count](https://moe-counter.glitch.me/get/@rmxburhan)
+[//]: <> ("https://moe-counter.glitch.me/get/@rmxburhan")
 
 Feel free to explore my repositories and join me on this exciting journey!
