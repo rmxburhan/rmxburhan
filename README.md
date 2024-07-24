@@ -15,9 +15,9 @@ In my free time, I'm passionate about:
 Here are some of the technologies that I'm currently excited about:
 
 - 📱 Kotlin (Android Native App)
-- 🌐 ASP.NET Core
+- 🌐 ASP.NET Core, Express, Django
 - 💻 Winforms
-- ⚛️ Svelte.js
+- ⚛️ React
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmxburhan&langs_count=10"  width="300px">
