@@ -9,4 +9,4 @@
   <p>
 - 🥈 Clinched a well-deserved 2nd place in another intense Skills Competition in West Java - IT Software Solution For Business.
   </p>
-</p>
+</p> 
