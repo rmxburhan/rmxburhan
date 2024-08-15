@@ -1,5 +1,5 @@
 <p align="center">
-  <p>
+<!--   <p>
 - 🥉 Achieved 3rd lace in the National Skills Competition (LKS) - IT Software Solution For Business.
   </p>
   <p>
@@ -7,7 +7,7 @@
   </p>
   <p>
 - 🥈 Clinched a well-deserved 2nd place in another intense Skills Competition in West Java - IT Software Solution For Business.
-  </p>
+  </p> -->
   <br/>
 <div align="center">
     <a href="https://github.com/rmxburhan"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=rmxburhan&show_icons=true&theme=dark#gh-dark-mode-only"/></a>
